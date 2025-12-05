@@ -7,6 +7,6 @@ https://t.me/TRX3000Bot
   
 不会部署服务器的可联系作者，收费部署也可根据需求定制开发。飞机 @laowang2025  
   
+  <img width="980" height="1450" alt="搜狗截图20251205141031" src="https://github.com/user-attachments/assets/ac784240-47b6-41e9-a718-0ace5dbebcc2" />
+
   
-  
-![搜狗截图20251203100802 (2)](https://github.com/user-attachments/assets/b0dffb82-7c5d-4593-8ae9-915a1c077bdb)
